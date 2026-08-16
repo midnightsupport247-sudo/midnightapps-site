@@ -1,0 +1,8 @@
+# robots.txt for midnightapps.dev
+# Midnight Apps — mobile apps by Midnight Holdings LLC
+# Everything here is public company information and is welcome to be indexed.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://midnightapps.dev/sitemap.xml

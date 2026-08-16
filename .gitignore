@@ -1,0 +1,53 @@
+# ---------------------------------------------------------------------------
+# Midnight Apps — midnightapps.dev
+# This repository is PUBLIC. Nothing sensitive belongs in it.
+# ---------------------------------------------------------------------------
+
+# Private company verification notes (D-U-N-S, registered business address).
+# Kept locally for Apple Developer / D&B verification. Never publish.
+COMPANY-VERIFICATION.md
+private/
+*.private.md
+
+# Secrets — none should ever exist here, but fail closed.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.p8
+*.mobileprovision
+*.keystore
+*.jks
+secrets.*
+credentials.*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Linux
+*~
+.directory
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Local tooling and scratch output
+node_modules/
+.cache/
+tmp/
+temp/
+*.log
