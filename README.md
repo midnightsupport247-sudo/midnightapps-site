@@ -32,6 +32,9 @@ byte the browser loads comes from this repository.
 ├── privacy/index.html        Privacy policy for this website
 ├── terms/index.html          Terms of use for this website
 ├── support/index.html        Support page — how to get help, all by email
+├── destiny-ai/privacy/       Destiny AI app privacy policy (App Store privacy URL)
+├── destiny-ai/terms/         Destiny AI app terms of use
+├── privacy-policy/, terms-of-service/  Redirect stubs to /privacy/ and /terms/
 ├── assets/
 │   ├── css/styles.css        The single stylesheet for every page
 │   ├── js/site.js            Mobile menu + reveal-on-scroll. Optional; site works without it
@@ -61,6 +64,8 @@ Directory-style URLs (`/privacy/`) come from each folder containing an `index.ht
 | Support | <https://midnightapps.dev/support/> |
 | Privacy Policy | <https://midnightapps.dev/privacy/> |
 | Terms of Use | <https://midnightapps.dev/terms/> |
+| Destiny AI Privacy Policy | <https://midnightapps.dev/destiny-ai/privacy/> |
+| Destiny AI Terms of Use | <https://midnightapps.dev/destiny-ai/terms/> |
 
 ---
 
